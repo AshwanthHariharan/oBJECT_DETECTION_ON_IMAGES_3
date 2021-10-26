@@ -1,0 +1,33 @@
+body {
+
+text-align: center;
+
+}
+
+.heading {
+
+margin-top: 0;
+
+width:100%;
+
+}
+
+#Back_from_Bedroom {
+
+float:right;
+
+background-color: black;
+
+color: white;
+
+}
+
+canvas {
+
+border: 7px solid white;
+
+box-shadow: 5px 5px 5px grey;
+
+border-radius: 20px;
+
+}
